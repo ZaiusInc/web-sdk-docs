@@ -14,5 +14,5 @@ zaius.entity("customer", {
 });
 ```
 
-{% page-ref page="../advanced/create-custom-fields.md" %}
+{% page-ref page="../web-messaging/create-custom-fields.md" %}
 
