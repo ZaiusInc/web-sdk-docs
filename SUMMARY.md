@@ -4,6 +4,7 @@
 
 ## Customers
 
+* [Overview](https://developer.zaius.com/home/zaius-schema/customers)
 * [Attributes](customers/attributes.md)
 * [Messaging Lists](customers/lists.md)
 * [Consent](customers/consent.md)

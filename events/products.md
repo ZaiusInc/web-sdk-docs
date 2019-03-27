@@ -1,5 +1,9 @@
 # Product
 
+{% hint style="danger" %}
+`product_id` is required on all events with an event type of `product`
+{% endhint %}
+
 ## Details Viewed
 
 ```javascript
