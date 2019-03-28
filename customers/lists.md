@@ -7,7 +7,7 @@ description: Subscribe and unsubscribe identifiers from messaging Lists.
 Messaging Lists allow you to collect customers into static groups for the purposes of communication preferences. For example, allowing customers to subscribe to your company newsletter or for holiday news.
 
 {% hint style="success" %}
-Zaius does not require customers to be subscribe to a List to receive emails.
+Zaius does not require customers to be subscribed to a List to receive emails.
 {% endhint %}
 
 {% tabs %}
