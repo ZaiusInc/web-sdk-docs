@@ -42,6 +42,6 @@ zaius.event("order", {
 ## Refunds / Returns / Cancellations
 
 {% hint style="danger" %}
-Zaius only supports sending Order **refunds**, **returns** & **cancellations** via API or CSV to ensure that ad blockers do not block these critical events.
+Zaius only supports sending Order **refunds**, **returns** & **cancellations** via [API](https://api.developer.zaius.com) or [CSV](https://developer.zaius.com/home/bulk-imports/csv-upload) to ensure that ad blockers do not block these critical events.
 {% endhint %}
 
