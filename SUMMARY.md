@@ -26,5 +26,4 @@
 * [Web Push](web-messaging/web-push.md)
 * [Web Modals](web-messaging/web-modals.md)
 * [Web Embeds](web-messaging/web-embeds.md)
-* [Create Custom Fields](web-messaging/create-custom-fields.md)
 

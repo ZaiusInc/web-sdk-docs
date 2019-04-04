@@ -14,5 +14,3 @@ zaius.entity("customer", {
 });
 ```
 
-{% page-ref page="../web-messaging/create-custom-fields.md" %}
-
