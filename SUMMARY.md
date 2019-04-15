@@ -24,6 +24,5 @@
 ## Web Messaging
 
 * [Web Push](web-messaging/web-push.md)
-* [Web Modals](web-messaging/web-modals.md)
-* [Web Embeds](web-messaging/web-embeds.md)
+* [Web Modals / Embeds](web-messaging/web-modals-embeds.md)
 
