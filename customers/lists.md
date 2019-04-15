@@ -42,7 +42,25 @@ zaius.unsubscribe({
 {% endtab %}
 
 {% tab title="Including Additional Fields" %}
+```javascript
+zaius.subscribe({
+  // subscribe Johnny to all lists
+  
+  list_id: ["newsletter", "promotion", "product_update"],
+  email: "johnny@zaius.com",
+  
+  // update Johnny's record to include his full name
+  first_name: "Johnny",
+  last_name: "Zaius",
+  
+  // store information on the subscribe events
+  event_custom_field: "my custom value",
+  custom_number_field: 123
+  
+});
 
+// zaius.unsubscribe also fully supports this syntax.
+```
 {% endtab %}
 {% endtabs %}
 
