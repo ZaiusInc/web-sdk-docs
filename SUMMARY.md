@@ -8,6 +8,7 @@
 * [Attributes](customers/attributes.md)
 * [Messaging Lists](customers/lists.md)
 * [Consent](customers/consent.md)
+* [Anonymize](customers/anonymize.md)
 
 ## Events
 
