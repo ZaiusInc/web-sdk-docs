@@ -10,12 +10,6 @@
 zaius.event("product", { action: "detail", product_id: "product-2143" });
 ```
 
-## Listing Viewed
-
-```javascript
-zaius.event("product", { action: "listing", product_id: "product-2143" });
-```
-
 ## Add to Cart
 
 ```javascript
