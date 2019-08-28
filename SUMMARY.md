@@ -4,7 +4,7 @@
 
 ## Customers
 
-* [Overview](https://developer.zaius.com/home/overview/customers)
+* [Overview](https://docs.developers.zaius.com/core-concepts/the-basics/customers)
 * [Attributes](customers/attributes.md)
 * [Messaging Lists](customers/lists.md)
 * [Consent](customers/consent.md)
@@ -12,7 +12,7 @@
 
 ## Events
 
-* [Overview](https://developer.zaius.com/home/overview/events)
+* [Overview](https://docs.developers.zaius.com/core-concepts/the-basics/events)
 * [Account](events/account.md)
 * [Wishlist](events/wishlist.md)
 * [Page View](events/pageviews.md)
